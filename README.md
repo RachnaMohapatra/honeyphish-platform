@@ -1,6 +1,6 @@
 # 🛡️ HoneyPhish: Vendor Security Awareness & Cyber Risk Evaluation Platform
 
-**HoneyPhish** is a secure, scalable web platform that empowers enterprises to assess and manage the cybersecurity posture of their third-party vendors. It combines a **Vendor Risk Assessment Portal** with a **Gamified Phishing Simulation System**, backed by real-time analytics, smart scoring, and dynamic feedback—all wrapped in a sleek **dark-glass UI with 3D particles**.
+**HoneyPhish** is a secure, scalable web platform that empowers enterprises to assess and manage the cybersecurity posture of their third-party vendors. It combines a **Vendor Risk Assessment Portal** with a **Gamified Phishing Simulation System**, backed by real-time analytics, smart scoring, and dynamic feedback—encased in a glassmorphic interface with gradient overlays and modern interaction design.
 ---
 
 ## 🎯 Objective
